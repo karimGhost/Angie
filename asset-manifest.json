@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Angie/static/css/main.0fb1be90.css",
+    "main.js": "/Angie/static/js/main.267412b5.js",
+    "index.html": "/Angie/index.html",
+    "main.0fb1be90.css.map": "/Angie/static/css/main.0fb1be90.css.map",
+    "main.267412b5.js.map": "/Angie/static/js/main.267412b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb1be90.css",
+    "static/js/main.267412b5.js"
+  ]
+}
